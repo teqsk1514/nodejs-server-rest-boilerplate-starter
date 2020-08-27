@@ -1,0 +1,16 @@
+[] server.js
+[] src/api
+[] src/middlewares
+[] src/api/routes.js
+[] src/api/
+[] src/models
+
+[-] server setup
+[] small .env file
+[] Login flow with JWT token
+[] Mongo DB (models)
+[] Routing 
+[] Controllers
+[] middlewares
+
+[] User Login, SignUp, Logout

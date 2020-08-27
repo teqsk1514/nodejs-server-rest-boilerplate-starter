@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-server-rest-boilerplate-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teqsk1514/nodejs-server-rest-boilerplate-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teqsk1514/nodejs-server-rest-boilerplate-starter/issues"
+  },
+  "homepage": "https://github.com/teqsk1514/nodejs-server-rest-boilerplate-starter#readme"
+}
